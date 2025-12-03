@@ -78,5 +78,6 @@ Make sure you have the following installed:
 ### Steps to Install:
 
 1️⃣ Clone the Repository:
+
 git clone https://github.com/Shivam-Shere/Predictive-Laptop-Pricing-Model.git
 cd Predictive-Laptop-Pricing-Model
