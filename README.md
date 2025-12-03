@@ -8,7 +8,7 @@ This project uses machine learning to estimate laptop prices based on hardware s
 
 📑 Table of Contents
 
-Features
+[Features](Features)
 
 Technologies Used
 
