@@ -8,19 +8,18 @@ This project uses machine learning to estimate laptop prices based on hardware s
 
 📑 Table of Contents
 
-[Features](Features)
+- Features
 
-Technologies Used
+- Technologies Used
 
-Installation
+- Installation
 
-Usage
+- Configuration
 
-Configuration
+- License
 
-License
+- Contact
 
-Contact
 
 ⭐ Features
 
@@ -49,3 +48,31 @@ Contact
 - User-Friendly Interface: Simple, clean, and optimized for quick experimentation.
 
 
+🛠️ Technologies Used
+
+- Python: Programming language
+
+- Pandas & NumPy: Data cleaning and preprocessing
+
+- Scikit-Learn: Model training and evaluation
+
+- Matplotlib & Seaborn: Data visualization
+
+- Machine Learning
+
+- Streamlit: Web application deployment
+
+
+
+📥 Installation
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- Python 3.10+
+
+- Required Python packages (install using requirements.txt)
+
+
+### Steps to Install:
