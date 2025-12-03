@@ -1,5 +1,6 @@
-# Predictive-Laptop-Pricing-Model
-A machine learning–powered tool that predicts laptop prices using 1K+ cleaned hardware specifications, featuring ETL pipelines, multiple regression models, and an interactive Streamlit app for exploring pricing insights.
+# 🖥️ Predictive Laptop Pricing Tool (Machine Learning Project)
+
+License: MIT
 
 Welcome to the Predictive Laptop Pricing Tool! 💻📊
 
@@ -23,26 +24,28 @@ Contact
 
 ⭐ Features
 
-ETL Pipeline: Cleaned and processed 1,000+ laptop records.
+- ETL Pipeline: Cleaned and processed 1,000+ laptop records.
 
-Multi-Model Training:
+- Multi-Model Training:
 
-Linear Regression
+1. Linear Regression
 
-Ridge & Lasso
+2. Ridge & Lasso
 
-Support Vector Machine (SVM)
+3. Support Vector Machine (SVM)
 
-Random Forest
+4. Random Forest
 
-Extra Trees
+5. Extra Trees
 
-High Accuracy: Achieved 89% prediction accuracy.
+- High Accuracy: Achieved 89% prediction accuracy.
 
-Interactive Streamlit App: Explore predictions, compare models, and view insights.
+- Interactive Streamlit App: Explore predictions, compare models, and view insights.
 
-Feature Engineering: Transformation, encoding, scaling, and feature importance extraction.
+- Feature Engineering: Transformation, encoding, scaling, and feature importance extraction.
 
-Visual Analytics: Well-structured graphs to understand pricing patterns.
+- Visual Analytics: Well-structured graphs to understand pricing patterns.
 
-User-Friendly Interface: Simple, clean, and optimized for quick experimentation.
+- User-Friendly Interface: Simple, clean, and optimized for quick experimentation.
+
+
