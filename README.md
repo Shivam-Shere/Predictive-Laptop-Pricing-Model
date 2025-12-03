@@ -2,11 +2,11 @@
 
 License: MIT
 
-Welcome to the Predictive Laptop Pricing Tool! 💻📊
+### Welcome to the Predictive Laptop Pricing Tool! 💻📊
 
 This project uses machine learning to estimate laptop prices based on hardware specifications. With an end-to-end pipeline (ETL → Feature Engineering → ML Modeling → Deployment), it helps users explore price insights and compare model performance through an interactive Streamlit web app.
 
-📑 Table of Contents
+## 📑 Table of Contents
 
 - Features
 
@@ -19,7 +19,7 @@ This project uses machine learning to estimate laptop prices based on hardware s
 - Contact
 
 
-⭐ Features
+## ⭐ Features
 
 - ETL Pipeline: Cleaned and processed 1,000+ laptop records.
 
@@ -46,7 +46,7 @@ This project uses machine learning to estimate laptop prices based on hardware s
 - User-Friendly Interface: Simple, clean, and optimized for quick experimentation.
 
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - Python: Programming language
 
@@ -62,7 +62,7 @@ This project uses machine learning to estimate laptop prices based on hardware s
 
 
 
-📥 Installation
+## 📥 Installation
 
 ### Prerequisites
 
@@ -90,14 +90,14 @@ pip install -r requirement.txt
 streamlit run app/streamlit_app.py
 
 
-📄 License
+## 📄 License
 
 License: MIT
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
+## Contact
 
 Developed by Shivam Shere. For any inquiries, please contact me via, 
 
-LinkedIn: [Shivam Shere]([url](https://www.linkedin.com/in/shivam-shere/)) 
+LinkedIn: [Shivam Shere](https://www.linkedin.com/in/shivam-shere/)
