@@ -14,8 +14,6 @@ This project uses machine learning to estimate laptop prices based on hardware s
 
 - Installation
 
-- Configuration
-
 - License
 
 - Contact
@@ -80,4 +78,26 @@ Make sure you have the following installed:
 1️⃣ Clone the Repository:
 
 git clone https://github.com/Shivam-Shere/Predictive-Laptop-Pricing-Model.git
+
 cd Predictive-Laptop-Pricing-Model
+
+2️⃣ Install Dependencies:
+
+pip install -r requirement.txt
+
+▶️ Running the Project: (Run the Streamlit Application)
+
+streamlit run app/streamlit_app.py
+
+
+📄 License
+
+License: MIT
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Contact
+
+Developed by Shivam Shere. For any inquiries, please contact me via, 
+
+LinkedIn: [Shivam Shere]([url](https://www.linkedin.com/in/shivam-shere/)) 
