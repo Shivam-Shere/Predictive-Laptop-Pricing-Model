@@ -76,9 +76,10 @@ To provide an interactive, ML-powered tool that:
 
 ## 6. ScreenShots:
 
-1. https://github.com/Shivam-Shere/Predictive-Laptop-Pricing-Model/blob/main/Results/Snapshot_1.png
+<img width="1918" height="1065" alt="Snapshot_1" src="https://github.com/user-attachments/assets/97050ef1-bd5c-481b-a626-b42f0013f396" />
 
-2. https://github.com/Shivam-Shere/Predictive-Laptop-Pricing-Model/blob/main/Results/Snapshot_2.png
+
+<img width="1919" height="1067" alt="Snapshot_2" src="https://github.com/user-attachments/assets/4c66c4c6-e233-45b9-a5fb-36d1b2cd05a2" />
 
 
 ## 📥 Installation
